@@ -28,8 +28,8 @@ Printing the predicted CO2 emissions.
 ## Program:
 ```python
 Program to implement multivariate linear regression and predict the output
-#Developed by:vignesh.v
-#Register no:23004027
+#Developed by:Nishanth J
+#Register no:212223100040
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv('/content/cars (1) (4).csv')
